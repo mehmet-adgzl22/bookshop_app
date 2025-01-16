@@ -48,3 +48,6 @@ Bu proje, "Kitap Kurdu" adında bir kitapçı için tasarlanmış bir HTML web s
 
 ---
 
+## Proje Gifi 
+![bookshop-ezg](https://github.com/user-attachments/assets/469a006d-b289-4b6d-9968-51292e086adc)
+
